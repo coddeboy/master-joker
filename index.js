@@ -179,4 +179,4 @@ message.author.send(`Here the link of Master play V3 : https://discordapp.com/ap
  
 });
 
-client.login("NTIyNDIyMDc1Mzk5NjAyMjEw.Dvadug.CsTCZn_jv2uw1jZ8A34iGP6H_cs");
+client.login("Token");
